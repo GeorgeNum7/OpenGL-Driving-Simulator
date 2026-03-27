@@ -2,7 +2,6 @@
 
 > A comprehensive interactive 3D driving simulation built with OpenGL, demonstrating advanced computer graphics techniques including hierarchical modeling, dynamic lighting, and texture mapping. Developed as the Assessment 2 project for the CPT205 course.
 
-![Demo](docs/demo.gif) *(建议：在此处放一张汽车行驶、视角切换或昼夜交替的 GIF 动图)*
 
 ## 📖 Overview
 
